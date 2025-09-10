@@ -1,6 +1,6 @@
 {
   "name": "puppet-unattended_upgrades",
-  "version": "9.0.0",
+  "version": "9.1.0",
   "author": "Vox Pupuli",
   "summary": "Provides an interface for managing Apt unattended_upgrades with Puppet",
   "license": "Apache-2.0",
@@ -21,7 +21,8 @@
       "operatingsystemrelease": [
         "10",
         "11",
-        "12"
+        "12",
+        "13"
       ]
     },
     {
